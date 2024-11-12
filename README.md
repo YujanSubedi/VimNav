@@ -1,4 +1,6 @@
 ### VimNav
+![vimnav](https://github.com/user-attachments/assets/3f4ec82d-b830-4f95-8524-762d89526ba2)
+
 Firefox extension for handling scrolling and followlink like qutebrowser
 
 #### Todo
